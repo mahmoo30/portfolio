@@ -1,6 +1,9 @@
 # My Portfolio ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 My personal portfolio app built using React.
 
+[!https://github.com/mahmoo30/portfolio/blob/main/images/home.png}
+
+
 ## 🔍 Table of Contents
 - [Description](#description)
 - [Installation](#install)
