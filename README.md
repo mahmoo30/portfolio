@@ -2,6 +2,9 @@
 My personal portfolio app built using React.
 
 ![HOME](https://github.com/mahmoo30/portfolio/blob/main/images/home.png)
+![ABOUT](https://github.com/mahmoo30/portfolio/blob/main/images/about.png)
+![PROJECTS](https://github.com/mahmoo30/portfolio/blob/main/images/projects.png)
+![CONTACT](https://github.com/mahmoo30/portfolio/blob/main/images/contact.png)
 
 
 ## 🔍 Table of Contents
